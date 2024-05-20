@@ -1,2 +1,2 @@
 # cadastro-pessoas-go
-API para simulação de cadastro de pessoas utilizando GO
+API para simples simulação de cadastro de pessoas utilizando GO Lang.
